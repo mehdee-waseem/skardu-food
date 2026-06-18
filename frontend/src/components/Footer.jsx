@@ -12,7 +12,8 @@ export default function Footer() {
         <div>
           <h4>Find us</h4>
           <p>Skardu Bazaar, Gilgit-Baltistan</p>
-          <p>+92 300 0000000</p>
+          <p>+92 3412236629</p>
+          
         </div>
 
         <div>
