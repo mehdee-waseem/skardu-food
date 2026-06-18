@@ -1,5 +1,5 @@
 # Skardu Food
-
+![Skardu Food homepage](screenshots/homepage.png)
 Just trying to explore and showcase the variety of desi dishes and dry foods
 available in Gilgit-Baltistan, and let people order them online.
 
