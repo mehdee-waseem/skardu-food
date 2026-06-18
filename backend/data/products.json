@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Mamtu",
+    "category": "balti",
+    "price": 450,
+    "unit": "plate (6 pcs)",
+    "icon": "🥟",
+    "description": "Steamed dumplings stuffed with spiced minced meat and onions, served with a tangy tomato-yogurt sauce. A Baltistan classic.",
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "name": "Balay",
+    "category": "balti",
+    "price": 500,
+    "unit": "bowl",
+    "icon": "🍲",
+    "description": "A hearty Balti soup made with hand-pulled wheat dumplings, meat and local herbs. Warming and filling, perfect for cold evenings.",
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "name": "Prapu",
+    "category": "balti",
+    "price": 300,
+    "unit": "plate",
+    "icon": "🥞",
+    "description": "Soft buckwheat pancakes, a staple bread of Baltistan, usually eaten with butter or apricot oil.",
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Khambir",
+    "category": "balti",
+    "price": 150,
+    "unit": "loaf",
+    "icon": "🍞",
+    "description": "Traditional leavened local bread baked in a tandoor, slightly dense and nutty in flavour.",
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "Gur Gur Chai",
+    "category": "balti",
+    "price": 200,
+    "unit": "pot",
+    "icon": "🍵",
+    "description": "Salted butter tea, churned the traditional way in a wooden churner. Best paired with Khambir.",
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "name": "Chapshoro",
+    "category": "balti",
+    "price": 550,
+    "unit": "whole",
+    "icon": "🥧",
+    "description": "A round stuffed bread filled with minced meat, onion and local spices, baked until golden.",
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "name": "Skardu Daal",
+    "category": "balti",
+    "price": 350,
+    "unit": "bowl",
+    "icon": "🍛",
+    "description": "Local lentils slow-cooked with mountain herbs and a light tempering, served with Khambir or rice.",
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "name": "Dried Apricots (Khost)",
+    "category": "dry",
+    "price": 600,
+    "unit": "kg",
+    "icon": "🍑",
+    "description": "Sun-dried apricots from Baltistan orchards, naturally sweet and chewy. No added sugar.",
+    "inStock": true
+  },
+  {
+    "id": "9",
+    "name": "Apricot Kernels",
+    "category": "dry",
+    "price": 750,
+    "unit": "kg",
+    "icon": "🌰",
+    "description": "Sweet apricot seed kernels, a popular snack in Gilgit-Baltistan, similar in taste to almonds.",
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "name": "Walnuts (in shell)",
+    "category": "dry",
+    "price": 900,
+    "unit": "kg",
+    "icon": "🌰",
+    "description": "Thin-shelled local walnuts, easy to crack, rich and slightly sweet kernel inside.",
+    "inStock": true
+  },
+  {
+    "id": "11",
+    "name": "Dried Mulberries",
+    "category": "dry",
+    "price": 700,
+    "unit": "kg",
+    "icon": "🫐",
+    "description": "Naturally sun-dried mulberries, a traditional energy snack used in winters.",
+    "inStock": true
+  },
+  {
+    "id": "12",
+    "name": "Apricot Oil",
+    "category": "dry",
+    "price": 1200,
+    "unit": "500ml bottle",
+    "icon": "🫙",
+    "description": "Cold-pressed apricot kernel oil, used for cooking and as a traditional skin care oil.",
+    "inStock": true
+  }
+]
